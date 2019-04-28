@@ -52,4 +52,4 @@ training.csv - the training set (over 43,000 bookings). Includes the output Car_
 #The goal is to create a predictive model for classifying new bookings as to whether they will eventually get cancelled due to car unavailability. This is a classification task that includes misclassification costs.
 
 
-                                        #NaiveBayes and KNN model applied
+                                        SVM and KNN model applied
